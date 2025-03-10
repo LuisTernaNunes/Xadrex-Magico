@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2c05b394ab9777b4582d3ed1f6c11fee
+timeCreated: 1440178315
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - fundoMenu: {fileID: 2800000, guid: e6da9a7834d4d5a4ebd1d1441d1eae6c, type: 3}
+  - ImgTexture: {fileID: 2800000, guid: 3014f0a9fe56d0b49bbe119cfc7e096b, type: 3}
+  - Botao: {fileID: 2800000, guid: 756ffb160a5489f429ed3524ffa98459, type: 3}
+  - Options: {fileID: 2800000, guid: 1837b1bbd25c21c48bfd8d82fc50244d, type: 3}
+  - FonteLabel: {fileID: 12800000, guid: 42fbb82d08eddcf4aa23135c932702a6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
